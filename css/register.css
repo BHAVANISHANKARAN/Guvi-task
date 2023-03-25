@@ -1,0 +1,25 @@
+body {
+	/* background-image: url('../assets/bgimage.png'); */
+  background-image: linear-gradient(to right, #4ba63f, #f8e1e1);
+
+	background-size: cover;
+	color: #333; /* set the default font color */
+}
+
+	.d{
+  color:greenyellow;
+  background-color:transparent;
+
+}
+.navi{
+  background-color: transparent;
+  color:rgb(47, 196, 255)
+}
+.btn{
+  background-color: transparent;
+  
+}
+.text{
+  background-color: transparent;
+  color:aquamarine;
+}
